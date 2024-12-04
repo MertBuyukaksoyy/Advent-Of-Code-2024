@@ -15,7 +15,7 @@ public class Adventofcodeday2 {
 
     public static void main(String[] args) {
  
-        String fileName = "C:\\Users\\MERT\\Desktop\\AdventeofCode2024\\AdventeofCode2024\\adventofcodeday2\\day2.txt";
+        String fileName = "C:\\Users\\MERT\\Desktop\\Days\\day2.txt";
         List<int[]> list = new ArrayList<>(); 
 
         try (BufferedReader br = new BufferedReader(new FileReader(fileName))) {

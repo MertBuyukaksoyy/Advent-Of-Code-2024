@@ -17,7 +17,7 @@ public class Adventofcodeday3 {
 
     public static void main(String[] args) throws IOException {
         
-        String filePath = "C:\\Users\\MERT\\Desktop\\AdventeofCode2024\\AdventeofCode2024\\adventofcodeday3\\day3.txt";
+        String filePath = "C:\\Users\\MERT\\Desktop\\Days\\day3.txt";
         String content = Files.readString(Paths.get(filePath));
         System.out.println(content);
 
